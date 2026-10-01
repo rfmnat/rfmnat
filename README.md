@@ -1,3 +1,3 @@
 # My portfolio
 
-Hello, my name is Name.
+Hello, welcome to my portfolio
